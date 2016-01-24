@@ -43,4 +43,12 @@ defined, then path shortening will not be performed. The default for
 `DateTimeFormat` is `'yyyyMMddHHmmss'`. This format should be conformant with
 the [standard .NET date and time format conventions][dotnet-date-time-format].
 
+Licensing
+---------
+
+Copyright © 2016 Friedrich von Never <friedrich@fornever.me>
+
+This software may be used under the terms of the MIT license, see `License.md`
+for details.
+
 [dotnet-date-time-format]: https://msdn.microsoft.com/en-us/library/8kb3ddd4(v=vs.110).aspx
